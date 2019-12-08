@@ -4,14 +4,14 @@ SEOTitle: Monica's home
 header-img: img/post-bg-desk.jpg
 email: huxinyubeta@163.com
 description: "hhhhhhhhhhhhhhhhhhh"
-keyword: "空之境界, 鬼灭之刃, 月球人, 猫奴,夏目友人帐,灰原哀，Monica"
+keyword: "无"
 url: "http://Monica486.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Monica486/Monica486.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "撸猫佛系女，动漫，纯音乐爱好者，社交恐惧症，写点自己喜欢的东西记录成长。"
 sidebar-avatar: /img/xiang.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
